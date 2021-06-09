@@ -1,7 +1,15 @@
 <nav class="navbar navbar-light bg-light">
-  <div class="container">
-    <a class="navbar-brand" href="#">
-      <img src="https://d136swi17h0tnq.cloudfront.net/Upload/2018-01/e75b15d0-3f71-4ae5-8ae9-49eb88498595.jpg" alt="" width="30" height="24">
-    </a>
-  </div>
+<div class="container">
+<a class="navbar-brand" href="#">
+<img src="https://d136swi17h0tnq.cloudfront.net/Upload/2018-01/e75b15d0-3f71-4ae5-8ae9-49eb88498595.jpg">
+Above is a Blue Jays logo and <a href="https://linktr.ee/michaelmacdonald25">here</a> is a collection of my work.<p>
+
+Love finding fun ways to visualize data and am always exploring new techniques.
+
+Currently expanding my knowledge of Python and r while settling in to GitHub.
+
+Collaborations always welcome! :)
+
+</a>
+</div>
 </nav>
